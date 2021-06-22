@@ -1,0 +1,98 @@
+{
+  "clients": [
+    {
+      "id": 763827368590049332,
+      "nickname": "Luke (hottest)",
+      "balance": 189,
+      "payment_history": [
+        {
+          "to": 763827368590049332,
+          "from": 763827368590049332,
+          "amount": 10,
+          "on": 1623785182.954655
+        },
+        {
+          "to": 763827368590049332,
+          "from": 763827368590049332,
+          "amount": 10,
+          "on": 1623785289.7481632
+        }
+      ],
+      "intrest_rate": 0.0
+    },
+    {
+      "id": 563689598358650916,
+      "nickname": "Dan",
+      "balance": 20,
+      "payment_history": [],
+      "intrest_rate": 0.0
+    },
+    {
+      "id": 828320778247340043,
+      "nickname": "Gethin",
+      "balance": 10,
+      "payment_history": [],
+      "intrest_rate": 0.0
+    },
+    {
+      "id": 474605229178880012,
+      "nickname": "KENNY",
+      "balance": -1001010000047.0,
+      "payment_history": [
+        {
+          "to": 474605229178880012,
+          "from": 763827368590049332,
+          "amount": -1000000000000,
+          "on": 1623786787.9269907
+        },
+        {
+          "to": 474605229178880012,
+          "from": 630123489751465994,
+          "amount": -999999999,
+          "on": 1624212957.4367325
+        },
+        {
+          "to": 474605229178880012,
+          "from": 630123489751465994,
+          "amount": -9999999,
+          "on": 1624212964.4747999
+        },
+        {
+          "to": 474605229178880012,
+          "from": 763827368590049332,
+          "amount": -100,
+          "on": 1624219929.2843444
+        }
+      ],
+      "intrest_rate": 10.0
+    },
+    {
+      "id": 630123489751465994,
+      "nickname": null,
+      "balance": 1010000658.0,
+      "payment_history": [],
+      "intrest_rate": 10.0
+    },
+    {
+      "id": 760884060297232394,
+      "nickname": null,
+      "balance": 70.0,
+      "payment_history": [],
+      "intrest_rate": 10.0
+    },
+    {
+      "id": 854065086326898729,
+      "nickname": null,
+      "balance": 30.0,
+      "payment_history": [],
+      "intrest_rate": 10.0
+    },
+    {
+      "id": 491698824348303360,
+      "nickname": "Jamie",
+      "balance": 10.0,
+      "payment_history": [],
+      "intrest_rate": 10.0
+    }
+  ]
+}
